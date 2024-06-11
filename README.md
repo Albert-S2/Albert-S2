@@ -1,4 +1,4 @@
-![Albert](https://github.com/Albert-S2/Albert-S2/assets/154522895/c575d235-387d-4c38-9383-351900eacdda)
+![Hi I’m albert](https://github.com/Albert-S2/Albert-S2/assets/154522895/8f8c756b-40ee-4651-a3fc-f1f1b8f1167a)
 
 ## Hi there 👋
 
