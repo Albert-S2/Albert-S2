@@ -1,6 +1,5 @@
-![Hi I’m albert](https://github.com/Albert-S2/Albert-S2/assets/154522895/8f8c756b-40ee-4651-a3fc-f1f1b8f1167a)
+![GitHub](https://github.com/Albert-S2/Albert-S2/assets/154522895/a76dbb50-4794-4630-86c2-ba25d02a9692)
 
-## Hi there 👋
 
 <!--
 **Albert-S2/Albert-S2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
