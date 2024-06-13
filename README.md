@@ -2,7 +2,8 @@
 
 Contact 
 
-![Technology](https://github.com/Albert-S2/Albert-S2/assets/154522895/9772357a-2297-4874-9009-326f276e98c3)
+![tech](https://github.com/Albert-S2/Albert-S2/assets/154522895/4d93bcca-b2d4-4e77-a25d-ece4006aa148)
+
 
 
 <!--
