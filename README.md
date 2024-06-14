@@ -10,6 +10,21 @@
 
 ![tech](https://github.com/Albert-S2/Albert-S2/assets/154522895/4d93bcca-b2d4-4e77-a25d-ece4006aa148)
 
+## My Projects
+
+
+| **Project** | **Description** | **Repo** | **Tech Stack** |
+| :- | :-| :-| :- | 
+| Kings Heath Clangers Basketball Team | An app for Kings Heath Clangers, a community club in Birmingham, to organize events and manage members.| [Github](https://github.com/lazycloud0/khc) | Next.js, Vercel, React, JavaScript, Supabase, Play Wright, Husky, Snyk, Notion, Jira, GitHub Flow |
+| My Lego Page | Ongoing Next.js project where I can improve my skills in building component-based applications. |[Github](https://github.com/Albert-S2/LEGO) | Next.js, React, JavaScript, GitHub |
+| The Weather App | A simple weather application built with JavaScript that retrieves weather details from an API. | [Github](https://github.com/Albert-S2/WeatherApp) | JavaScript, HTML, CSS, Postman, API |
+| Random Jokes | A TypeScript application that retrieves random jokes from the database. | [Github](https://github.com/Albert-S2/RandomJokes-JavaScript) | TypeScript, JavaScript, GitHub |
+| Rock-Paper-Scissors | A fully designed JavaScript game where the player faces a computer making random choices. The game also saves the results. | [Github](https://github.com/Albert-S2/Game-Rock-Paper-scissors) | JavaScript, GitHub |
+| Airbnb - replication project | In this project, I recreated an existing Airbnb page.|  [Github](https://github.com/Albert-S2/newprojectSoC) | GitHub, HTML, CSS |
+
+
+
+
 
 
 <!--
