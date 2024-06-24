@@ -22,15 +22,18 @@
 | Rock-Paper-Scissors | A fully designed JavaScript game where the player faces a computer making random choices. The game also saves the results. | [Github](https://github.com/Albert-S2/Game-Rock-Paper-scissors) | JavaScript, GitHub |
 | Airbnb - replication project | In this project, I recreated an existing Airbnb page.|  [Github](https://github.com/Albert-S2/newprojectSoC) | GitHub, HTML, CSS |
 
+
+
+
+
+<!--
+
 ## GitHub
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Albert-S2&theme=slateorange)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albert-S2&theme=slateorange&show_icons=true)
 
 
-
-
-<!--
 **Albert-S2/Albert-S2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
