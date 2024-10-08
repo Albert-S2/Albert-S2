@@ -16,7 +16,7 @@
 | **Project** | **Description** | **Repo** | **Tech Stack** |
 | :- | :-| :-| :- | 
 | Kings Heath Clangers Basketball Team | An app for Kings Heath Clangers, a community club in Birmingham, to organize events and manage members.| [Github](https://github.com/lazycloud0/khc) | Next.js, Vercel, React, JavaScript, Supabase, Play Wright, Husky, Snyk, Notion, Jira, GitHub Flow |
-| Petstore API Unittest/Python Project | A Python project for testing the Petstore API using SDKs and Unittest framework.| [Github](https://github.com/Albert-S2/Unittest-Pyton-Project) | Python, Unittest, APIs, SDKs, REST, GitHub |
+| Petstore API Unittest/Python Project | A Python project for testing the Petstore API using SDKs and Unittest framework.| [Github](https://github.com/Albert-S2/Unittest-Pyton-Project) | Python, Unittest, API, SDK, REST, GitHub |
 | NextStepNavigators | A  School Of Code, Technology from Sage, and HackathonParty hackathon event. Created a Front-End for OpenAI ChatBot helping young people understand their next steps in future career | [Github](https://github.com/Kit2345/NextStepNavigators) | Next.js, JavaScript, Tailwind, React, Github, Figma |
 | My Lego Page | Ongoing Next.js project where I can improve my skills in building component-based applications. |[Github](https://github.com/Albert-S2/LEGO) | Next.js, React, JavaScript, GitHub |
 | The Weather App | A simple weather application built with JavaScript that retrieves weather details from an API. | [Github](https://github.com/Albert-S2/WeatherApp) | JavaScript, HTML, CSS, Postman, API |
