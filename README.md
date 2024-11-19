@@ -15,6 +15,7 @@
 
 | **Project** | **Description** | **Repo** | **Tech Stack** |
 | :- | :-| :-| :- | 
+| Coaching Tales | This project aims to spotlight the inspiring stories of female football coaches, showcasing the significant impact they've had on the sport.| [Github](https://github.com/coachingtales/Coaching-Tales) | Next.js, Vercel, React, TypeScript, Supabase, Husky, Snyk, Notion, Jira, GitGuardian, Biome |
 | Kings Heath Clangers Basketball Team | An app for Kings Heath Clangers, a community club in Birmingham, to organize events and manage members.| [Github](https://github.com/lazycloud0/khc) | Next.js, Vercel, React, JavaScript, Supabase, Play Wright, Husky, Snyk, Notion, Jira, GitHub Flow |
 | Petstore API Unittest/Python Project | A Python project for testing the Petstore API using SDKs and Unittest framework.| [Github](https://github.com/Albert-S2/Unittest-Pyton-Project) | Python, Unittest, API, SDK, REST, GitHub |
 | NextStepNavigators | A  School Of Code, Technology from Sage, and HackathonParty hackathon event. Created a Front-End for OpenAI ChatBot helping young people understand their next steps in future career | [Github](https://github.com/Kit2345/NextStepNavigators) | Next.js, JavaScript, Tailwind, React, Github, Figma |
