@@ -15,7 +15,7 @@
 
 | **Project** | **Description** | **Repo** | **Tech Stack** |
 | :- | :-| :-| :- | 
-| ¡Chaté a me! | A personalized OpenAI-powered chatbot that imitates a specific person and helps with practicing conversational Spanish.| [Github](https://github.com/Albert-S2/chateame/tree/main) | Next.js, Vercel, React, JavaScript, GitHub Actions, OpenAI API |
+| Chaté a me | A personalized OpenAI-powered chatbot that imitates a specific person and helps with practicing conversational Spanish.| [Github](https://github.com/Albert-S2/chateame/tree/main) | Next.js, Vercel, React, JavaScript, GitHub Actions, OpenAI API |
 | Coaching Tales | This project aims to spotlight the inspiring stories of female football coaches, showcasing the significant impact they've had on the sport.| [Github](https://github.com/coachingtales/Coaching-Tales) | Next.js, Vercel, React, TypeScript, Supabase, Husky, Snyk, Notion, Jira, GitGuardian, Biome |
 | Kings Heath Clangers Basketball Team | An app for Kings Heath Clangers, a community club in Birmingham, to organize events and manage members.| [Github](https://github.com/lazycloud0/khc) | Next.js, Vercel, React, JavaScript, Supabase, Play Wright, Husky, Snyk, Notion, Jira, GitHub Flow |
 | Petstore API Unittest/Python Project | A Python project for testing the Petstore API using SDKs and Unittest framework.| [Github](https://github.com/Albert-S2/Unittest-Pyton-Project) | Python, Unittest, API, SDK, REST, GitHub |
