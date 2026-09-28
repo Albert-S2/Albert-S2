@@ -10,7 +10,7 @@
 
 ![tech](https://github.com/Albert-S2/Albert-S2/assets/154522895/4d93bcca-b2d4-4e77-a25d-ece4006aa148)
 
-## My Projects
+## My Personal Projects
 
 
 | **Project** | **Description** | **Repo** | **Tech Stack** |
